@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Bio Gustavo Macedo · Forno Lab
+   Bio Dante Araujo · Forno Lab
    Mobile-first. Breakpoints: 768px (tablet) e 1280px (desktop em duas colunas).
    ========================================================================== */
 
@@ -99,10 +99,6 @@ html.lenis,html.lenis body{height:auto}
   background:rgba(255,255,255,.62);border:1px solid rgba(255,255,255,.85);box-shadow:0 6px 16px rgba(12,12,13,.07);
   -webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px)}
 .soc svg{width:23px;height:23px}
-.soc.is-soon{position:relative;background:rgba(255,255,255,.35);box-shadow:none;cursor:default}
-.soc.is-soon svg{opacity:.4}
-.soon{position:absolute;bottom:-7px;left:50%;transform:translateX(-50%);padding:3px 6px;border-radius:999px;background:var(--ink);color:var(--white);
-  font-size:8px;font-weight:800;letter-spacing:.06em;line-height:1;text-transform:uppercase;white-space:nowrap}
 
 /* ---------- botão do quiz ---------- */
 .cta{position:relative;align-self:stretch;margin-top:20px;display:flex;align-items:center;gap:14px;padding:18px 16px;border-radius:34px;

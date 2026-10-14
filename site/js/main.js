@@ -1,4 +1,4 @@
-/* Bio Gustavo Macedo · Forno Lab
+/* Bio Dante Araujo · Forno Lab
    O conteúdo está todo no HTML; este arquivo só adiciona movimento,
    o aviso de link pendente e a abertura dos detalhes em navegadores antigos. */
 (function () {
